@@ -1,2 +1,2 @@
 # ob_images
-note &amp; images
+notes &amp; images
